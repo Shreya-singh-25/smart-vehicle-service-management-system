@@ -178,39 +178,34 @@ quickly — Maven's error output points directly to the file and line.
 
 ## 📸 Screenshots
 
-### Dashboard
+## 📸 Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+### Dashboard
+![Dashboard](vsms-java/screenshots/dashboard.png)
 
 ### Customer Management
-
-![Customer](screenshots/customers.png)
+![Customer](vsms-java/screenshots/customers.png)
 
 ### Vehicle Management
-
-![Vehicle](screenshots/vehicles.png)
+![Vehicle](vsms-java/screenshots/vehicles.png)
 
 ### Mechanic Management
-
-![Mechanic](screenshots/mechanics.png)
+![Mechanic](vsms-java/screenshots/mechanics.png)
 
 ### Services
-![Services](screenshots/services.png)
+![Services](vsms-java/screenshots/services.png)
 
 ### Booking Management
-
-![Booking](screenshots/bookings.png)
+![Booking](vsms-java/screenshots/bookings.png)
 
 ### Billing
-
-![Billing](screenshots/billing.png)
+![Billing](vsms-java/screenshots/billing.png)
 
 ### Reports
-
-![Reports](screenshots/reports.png)
+![Reports](vsms-java/screenshots/reports.png)
 
 ### Global Search
-![Global Search](screenshots/globalsearch.png)
+![Global Search](vsms-java/screenshots/globalsearch.png)
 
 ### Settings
-![Settings](screenshots/settings.png)
+![Settings](vsms-java/screenshots/settings.png)
