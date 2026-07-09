@@ -178,8 +178,6 @@ quickly — Maven's error output points directly to the file and line.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Dashboard
 ![Dashboard](vsms-java/screenshots/dashboard.png)
 
