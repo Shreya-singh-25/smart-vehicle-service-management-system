@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Generated database and runtime data (recreated automatically on first run)
+data/vsms.db
+data/backups/*.db
+data/invoices/*.html
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
