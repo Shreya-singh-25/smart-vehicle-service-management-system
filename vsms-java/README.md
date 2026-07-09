@@ -175,3 +175,37 @@ before delivery, since no JDK compiler or internet access was available in
 the authoring environment. If you hit a build error when you first run
 `mvn clean package`, copy the error message back and it can be fixed
 quickly — Maven's error output points directly to the file and line.
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Customer Management
+
+![Customer](screenshots/customer.png)
+
+### Vehicle Management
+
+![Vehicle](screenshots/vehicle.png)
+
+### Mechanic Management
+
+![Mechanic](screenshots/mechanic.png)
+
+### Booking Management
+
+![Booking](screenshots/booking.png)
+
+### Billing
+
+![Billing](screenshots/billing.png)
+
+### Reports
+
+![Reports](screenshots/reports.png)
