@@ -178,29 +178,28 @@ quickly — Maven's error output points directly to the file and line.
 
 ## 📸 Screenshots
 
-### Login Page
-
-![Login](screenshots/login.png)
-
 ### Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
 
 ### Customer Management
 
-![Customer](screenshots/customer.png)
+![Customer](screenshots/customers.png)
 
 ### Vehicle Management
 
-![Vehicle](screenshots/vehicle.png)
+![Vehicle](screenshots/vehicles.png)
 
 ### Mechanic Management
 
-![Mechanic](screenshots/mechanic.png)
+![Mechanic](screenshots/mechanics.png)
+
+### Services
+![Services](screenshots/services.png)
 
 ### Booking Management
 
-![Booking](screenshots/booking.png)
+![Booking](screenshots/bookings.png)
 
 ### Billing
 
@@ -209,3 +208,9 @@ quickly — Maven's error output points directly to the file and line.
 ### Reports
 
 ![Reports](screenshots/reports.png)
+
+### Global Search
+![Global Search](screenshots/globalsearch.png)
+
+### Settings
+![Settings](screenshots/settings.png)
